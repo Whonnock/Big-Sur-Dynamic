@@ -17,7 +17,7 @@ Procedure-
     3. Next run <sudo apt get gnome-tweaks>. This is the tool you will use to set the dynamic wallpaper later.<br>
     4. Next, download the wallpapers from this GitHub repository, <br>
     5. Next, extract the folder onto your Pictures folder. Keep in mind that the XML file is hard coded. Thus if you change the image name, you must make the required changes in the XML file.<br>
-    6. Open the XML using any word processor and replace <Whonnock> with your computer’s name.<br>
+    6. Open the XML using any word processor and replace "Whonnock" with your computer’s name.<br>
     7. Lastly, open Gnome Tweak Tools go to the appearance section and under Bacgrounds, select the XML file. Also set the Adjustment to ZOOM.<br><br>
 
 Voilà enjoy your beautiful desktop.
