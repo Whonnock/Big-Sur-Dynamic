@@ -1,3 +1,5 @@
+#Big Sur Dynamic Wallpaper on Linux
+
 The world of open source may seem intimidating, but there’s more to it than meets the eye. Customizing your Linux system may seem like a daunting task at first, but with these simple steps, you will be up and running in no time.<br><br>
 
 MacOS Big Sur has a breathtaking dynamic wallpaper and there’s no reason for someone to not enjoy them.<br><br>
